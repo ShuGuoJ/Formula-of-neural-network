@@ -2,7 +2,7 @@
 在这里，我总结了一下在deep learning中的常用公式。  
 卷积后，feature map的大小  
 ![image](formula_0.gif)  
-![image](formaul_1.gif)  
+![image](formula_1.gif)  
 扩展(dilation)卷积的感受野的大小，默认dilation=1  
 ![image](formula_2.gif)  
 ![image](formula_3.gif)  
