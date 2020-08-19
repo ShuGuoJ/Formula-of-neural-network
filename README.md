@@ -13,3 +13,5 @@
 步长:  
 ![image](formula_6.gif)  
 ![image](formula_7.gif)  
+#Convolution
+![image](cnn的特性.png)  
