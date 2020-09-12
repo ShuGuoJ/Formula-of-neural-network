@@ -13,5 +13,9 @@
 步长:  
 ![image](formula_6.gif)  
 ![image](formula_7.gif)  
+填充:  
+![image](formula_8.gif)  
+![image](formula_9.gif)  
+note:当卷积核窗口的宽和高为奇数时，上式成立。  
 # Convolution
 ![image](cnn的特性.png)  
