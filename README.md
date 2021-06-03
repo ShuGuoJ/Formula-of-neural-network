@@ -9,7 +9,7 @@
 空间金字塔池化层的窗口大小以及步长  
 步长:  
 ![image](formula_6.gif)  
-![image](formula_7.gif) 
+![image](formula_7.gif)  
 窗口大小:  
 ![image](formula_4.gif)  
 ![image](formula_5.gif)   
